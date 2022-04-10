@@ -58,7 +58,7 @@
                             </div>
                         </form>-->
                        
-                        <input type="text" placeholder="Search Skills " class="form-control"  ng-model="SearchSkills" >
+                        <!-- <input type="text" placeholder="Search Skills " class="form-control"  ng-model="SearchSkills" > -->
                         </div>
                         </tr>
                         <tr class="bg-success text-white">
@@ -66,9 +66,7 @@
                             <td>Name</td>
                             <td>Branch</td>
                             <td>Email</td>
-                            <td>Skills</td>
                             <td >Operation</td>
-                            <!-- <td >Generate LOR</td> -->
                         </tr>
                     <script>
                        var arrobj=[];
@@ -140,15 +138,15 @@
                                 return false;
                             }
                             }
-                            else if($scope.SearchSkills!=undefined){
-                             if(field.skills.toLowerCase().indexOf($scope.SearchSkills.toLowerCase()) != -1){
-                                  return true;
-                            }
-                            else{
-                                return false;
-                            }
+                            // else if($scope.SearchSkills!=undefined){
+                            //  if(field.skills.toLowerCase().indexOf($scope.SearchSkills.toLowerCase()) != -1){
+                            //       return true;
+                            // }
+                            // else{
+                            //     return false;
+                            // }
                             
-                            }
+                            // }
 
                             
                             }
@@ -179,7 +177,6 @@
                         <td>{{i.name}}</td>
                         <td>{{i.branch}}</td>
                         <td>{{i.email}}</td>
-                        <td>{{i.skills}}</td>
                         
                         <td><a href="view.php?success={{i.Reg}}" class="btn btn-success btn-sm">View</a></td>
                         

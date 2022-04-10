@@ -4,8 +4,7 @@
 <div id="cont">
 <div class="footer_center">
 	   <h4>
-    Project Done by Abhishek Raj,Haneet Arya,Riya khatwani
-    students of <a href="https://vit.ac.in/">VIT Vellore</a></h4>
+    Project Done by Abhishek Raj || Haneet Arya || Riya khatwani</h4>
 </div>
 </div>
 </div>

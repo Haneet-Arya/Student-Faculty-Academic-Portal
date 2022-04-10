@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="css/bootstrap.css" />
     <link rel="stylesheet" href="bootstrap/bootstrap.css">
     <link rel="stylesheet" href="sstyle.css">
-    <title>Student Faculty Interaction</title>
+    <title>Student Faculty Portal</title>
     
 </head>
 <body>

@@ -4,7 +4,7 @@ require_once('Includes/header.php');
 
 <div class="container">
       <div class="d-flex justify-content-center">
-        <h2>Welcome To the Student Faculty Interaction Portal</h2>
+        <h2>Welcome To the Student Faculty Academic Portal</h2>
       </div>
 
       <div class="row d-flex justify-content-around">

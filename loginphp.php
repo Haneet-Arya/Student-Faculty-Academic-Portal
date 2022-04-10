@@ -32,7 +32,7 @@
 
                     $_SESSION['StudentID']=$row['Regno'];
                     $StudentID=$row['Regno'];
-                    header("location:view.php?success=$StudentID");
+                    header("location:view-copy.php?success=$StudentID");
 
                 }
             }

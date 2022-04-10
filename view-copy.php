@@ -174,7 +174,7 @@ require_once('Includes/connection.php');
                     </td>
                 </tr>
                 </table>
-                <a href="studentacademicedit.php?edit=<?php echo $StudentID?>" class="btn btn-success btn-sl">Edit</a>
+                <!-- <a href="studentacademicedit.php?edit=<?php echo $StudentID?>" class="btn btn-success btn-sl">Edit</a> -->
             </div>
         </div>
 
@@ -286,7 +286,7 @@ require_once('Includes/connection.php');
                <div align="center" >
             <div class="col-lg-9">
             <div class="card mt-3 mb-5">
-            <a href="studentcontributionedit.php?edit=<?php echo $StudentID?>" class="btn btn-success btn-sl">Edit Contributions</a>
+            <!-- <a href="studentcontributionedit.php?edit=<?php echo $StudentID?>" class="btn btn-success btn-sl">Edit Contributions</a> -->
             </div>
             </div>
             </div>
@@ -396,7 +396,7 @@ require_once('Includes/connection.php');
             <div align="center" >
             <div class="col-lg-9">
             <div class="card mt-3 mb-5">
-            <a href="studentachievementedit.php?edit=<?php echo $StudentID?>" class="btn btn-success btn-sl">Edit Achievements</a>
+            <!-- <a href="studentachievementedit.php?edit=<?php echo $StudentID?>" class="btn btn-success btn-sl">Edit Achievements</a> -->
             </div>
             </div>
             </div>
@@ -519,7 +519,7 @@ require_once('Includes/connection.php');
            <div align="center" >
             <div class="col-lg-9">
             <div class="card mt-3 mb-5">
-        <a href="studentprojectedit.php?edit=<?php echo $StudentID?>" class="btn btn-success btn-sl">Edit Projects</a>
+        <!-- <a href="studentprojectedit.php?edit=<?php echo $StudentID?>" class="btn btn-success btn-sl">Edit Projects</a> -->
         </div>
             </div>
             </div>
@@ -620,7 +620,7 @@ require_once('Includes/connection.php');
             <div class="col-lg-9">
             <div class="card mt-3 mb-5">
             
-            <a href="studentinternshipsedit.php?edit=<?php echo $StudentID?>" class="btn btn-success btn-sl">Edit Internships</a>
+            <!-- <a href="studentinternshipsedit.php?edit=<?php echo $StudentID?>" class="btn btn-success btn-sl">Edit Internships</a> -->
             </div>
             </div>
             </div>
@@ -637,7 +637,7 @@ require_once('Includes/connection.php');
     <div class="card mt-3">
     <table class="table table-striped "  >
     <tr><th>Faculty:</th><th>View</th></tr>
-    <php
+    ?php
     $res10=mysqli_query($con,$sql9);
     $arr=array();
     while($row=mysqli_fetch_assoc($res10)){

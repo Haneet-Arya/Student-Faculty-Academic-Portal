@@ -22,7 +22,7 @@
   <div class="container-fluid">
     <!-- Navbar brand -->
     <a class="navbar-brand" href="index.php"><img class="d-inline-block align-top" src="images/vitlogo.png" alt="VIT Vellore" style="height:75px; width:180px;"></a>
-    <h3>Student Faculty Interaction Portal</h3>
+    <h3>Student Faculty Academic Portal</h3>
 
 
 

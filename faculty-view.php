@@ -68,7 +68,7 @@
                             <td>Email</td>
                             <td>Skills</td>
                             <td >Operation</td>
-                            <td >Generate LOR</td>
+                            <!-- <td >Generate LOR</td> -->
                         </tr>
                     <script>
                        var arrobj=[];
@@ -183,7 +183,7 @@
                         
                         <td><a href="view.php?success={{i.Reg}}" class="btn btn-success btn-sm">View</a></td>
                         
-                        <td><a href="faculty-LOR.php?success={{i.Reg}}&faculty=<?php echo $fac;?>" class="btn btn-success btn-sm">Generate LOR</a></td>      
+                        <!-- <td><a href="faculty-LOR.php?success={{i.Reg}}&faculty=<?php echo $fac;?>" class="btn btn-success btn-sm">Generate LOR</a></td>       -->
                          
                     </tr>
                    

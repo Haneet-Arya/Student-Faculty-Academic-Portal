@@ -1,6 +1,11 @@
 # Student-Faculty-Interaction-Portal
 Open Source Project 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-8.1.5-green">
+  <img src="https://img.shields.io/badge/Mysql-10.7.3-yellow">
+</p>
+
 This is a Student Teacher Management System Made using Php . This Uses Bootstrap as a front-end framework .
 To Test the Project On your System . 
 1. Clone The Repo and place the folder in one of the following directories  (/opt/lampp/htdocs) Or (C:/xampp/htdocs)
@@ -17,68 +22,15 @@ incorrect .
 
 # Screenshots
 
-<p align="center">
-  <b> Home Page </b>
-        
-  <img src="screenshots/index.png" width="1000" title="Home Page">
-</p>
+![1](https://user-images.githubusercontent.com/76744982/165357006-bdcdf043-df5f-4d3f-9985-9875d6995d9c.JPG)
 
-<p align="center">
-  <b> Student Login </b>
-        
-  <img src="screenshots/studentlogin.png" width="1000" title="Home Page">
-</p>
+![2](https://user-images.githubusercontent.com/76744982/165357113-20dfdba5-e378-439b-b682-36671b689fab.JPG)
 
-<p align="center">
-  <b> Faculty Login </b>
-        
-  <img src="screenshots/facultylogin.png" width="1000" title="Home Page">
-</p>
+![5](https://user-images.githubusercontent.com/76744982/165357223-fdfd0be2-98f5-4353-9ba2-780263761109.JPG)
 
-<p align="center">
-  <b> Faculty Register </b>
-        
-  <img src="screenshots/facultyregister.png" width="1000" title="Home Page">
-</p>
+![8](https://user-images.githubusercontent.com/76744982/165357270-f54bb203-b0ac-4f53-9474-7fed42e43d89.JPG)
 
-<p align="center">
-  <b> Student Register </b>
-        
-  <img src="screenshots/studentregister.png" width="1000" title="Home Page">
-</p>
-
-<p align="center">
-  <b> Student Dashboard </b>
-        
-  <img src="screenshots/studentdashboard.png" width="1000" title="Home Page">
-</p>
-
-<p align="center">
-  <b> Projects and Interships of Students </b>
-        
-  <img src="screenshots/projectsANDinternshipsCollapsed.png" width="1000" title="Home Page">
-</p>
-
-<p align="center">
-  <b> Projects of Students </b>
-        
-  <img src="screenshots/projectsOpen.png" width="1000" title="Home Page">
-</p>
-
-<p align="center">
-  <b> LOR  </b>
-        
-  <img src="screenshots/lor.png" width="1000" title="Home Page">
-</p>
-
-<p align="center">
-  <b> LOR View </b>
-        
-  <img src="screenshots/lorview.png" width="1000" title="Home Page">
-</p>
-
-<p align="center">
-  <b> Faculty Dashboard </b>
-        
-  <img src="screenshots/facultydashboard.png" width="1000" title="Home Page">
-</p>
+<p align="center"><b>Contributors - </b></p>
+<p align = "center"><a href="https://github.com/Haneet-Arya">Haneet Arya</a></p> 
+<p align = "center"><a href="https://github.com/riyakhatwani23">Riya Khatwani</a></p> 
+<p align = "center"><a href="https://github.com/avisekraj">Abhishek Raj</a></p> 

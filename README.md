@@ -10,9 +10,10 @@ This is a Student Teacher Management System Made using Php . This Uses Bootstrap
 To Test the Project On your System . 
 1. Clone The Repo and place the folder in one of the following directories  (/opt/lampp/htdocs) Or (C:/xampp/htdocs)
 2. Run the Xampp Server Along the Apache and Maria/MySql DB .
-3. Rename the folder as Project For Simple Naviagation.
-4. Once Apache is up and Running navigate to localhost/Project
-5. The index.html page will be loaded Automatically
+3. Import Database which is under DB_IMPORT
+4. Rename the folder as Project For Simple Naviagation.
+5. Once Apache is up and Running navigate to localhost/Project
+6. The index.html page will be loaded Automatically
 
 # Features 
 It offers 2 views a student view and a teacher view . The Student can put all of his personal and
@@ -32,5 +33,4 @@ incorrect .
 
 <p align="center"><b>Contributors - </b></p>
 <p align = "center"><a href="https://github.com/Haneet-Arya">Haneet Arya</a></p> 
-<p align = "center"><a href="https://github.com/riyakhatwani23">Riya Khatwani</a></p> 
 <p align = "center"><a href="https://github.com/avisekraj">Abhishek Raj</a></p> 
